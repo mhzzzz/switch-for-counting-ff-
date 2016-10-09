@@ -19,7 +19,7 @@ int main()
 			++spaceCnt;
 			break;
 		case 'f':
-			if(prech=='f');
+			if(prech=='f');//is there any mistake?
 			++ffCnt;
 			break;
 		case 'l':
